@@ -1,2 +1,3 @@
 # hello-world
-Just learning GitHub
+
+All is great, because I code so!
